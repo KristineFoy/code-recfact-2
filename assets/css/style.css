@@ -1,4 +1,4 @@
-/* whole page has border box */
+/* whole page has border */
 * {
     box-sizing: border-box;
     padding: 0;
